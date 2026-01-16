@@ -57,7 +57,7 @@ This ensured the dataset was **clean, consistent, and analysis-ready**.
 * Interactive filters and slicers for better insights
 
 ---
-
+<img width="1601" height="802" alt="Image" src="https://github.com/user-attachments/assets/2a38ffe5-8136-4501-9469-22e5913f51ae" />
 
 
 ---
